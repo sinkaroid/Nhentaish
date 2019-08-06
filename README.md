@@ -10,8 +10,6 @@ $ ./nhen.sh #chmod +x if necessary
 
 ### result
 ```sh
-mkdir $kode
-cat ${kode}.html 
 # directly mkdir as your put code like /177013
 ```  
 
