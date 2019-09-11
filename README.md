@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/codename-nhentai-hotpink)  
 bash nhentai stealer  
 
-![](https://1.bp.blogspot.com/-_nc5w76xI_Q/XUjMpitFwgI/AAAAAAAAJm0/IDyeJIRT4yc7L7qQJPL94zCAOH1AgnfygCLcBGAs/s1600/Screenshot_61.png)  
+![](https://1.bp.blogspot.com/-KPkuxhX4r90/XXhGBXGUfHI/AAAAAAAAJsA/zPxiDqddgm4vQKEmvS6BXoOrf1Zvcga_QCLcBGAsYHQ/s1600/Screenshot_131.png)  
 
 ```sh
 $ ./nhen.sh #chmod +x if necessary
@@ -10,7 +10,7 @@ $ ./nhen.sh #chmod +x if necessary
 
 ### result
 ```sh
-# directly mkdir as your put code like /177013
+# now your resultname same as title like nhentai site.
 ```  
 
 ## License
